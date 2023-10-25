@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1077758452604",
+    "project_id": "cervical-cancer-e52a1",
+    "storage_bucket": "cervical-cancer-e52a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077758452604:android:d29acc9f36be764ea93af9",
+        "android_client_info": {
+          "package_name": "com.example.ccs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077758452604-oc7fkrj5j7f00ed7i3ttatsf8l6kc9rf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd9m4US73VqQ3Zh7u5PxeI3TCIA9RTY-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077758452604-oc7fkrj5j7f00ed7i3ttatsf8l6kc9rf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1077758452604-4oehvcoh37rk9qu6lf43aoupb3uua1nm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ccs"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
